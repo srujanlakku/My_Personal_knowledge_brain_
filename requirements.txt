@@ -1,0 +1,56 @@
+# Core Framework
+streamlit>=1.32.0
+streamlit-chat>=0.1.1
+
+# LangChain - Latest Compatible Versions
+langchain>=0.1.20
+langchain-core>=0.1.52
+langchain-community>=0.0.38
+langchain-google-genai>=1.0.3
+langchain-chroma>=0.1.1
+langchain-text-splitters>=0.0.1
+
+# Google AI
+google-generativeai>=0.5.2
+
+# Vector Database
+chromadb>=0.4.24
+
+# Document Loaders
+PyPDF2>=3.0.1
+PyMuPDF>=1.23.26
+python-docx>=1.1.0
+docx2txt>=0.8
+
+# Web Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+lxml>=5.1.0
+validators>=0.22.0
+
+# Data Processing
+pandas>=2.2.1
+numpy>=1.26.4
+tiktoken>=0.6.0
+
+# Embeddings
+sentence-transformers>=2.6.1
+
+# Environment & Config
+python-dotenv>=1.0.1
+pydantic>=2.6.4
+pydantic-settings>=2.2.1
+
+# Database for Sessions
+sqlalchemy>=2.0.29
+
+# Utilities
+tqdm>=4.66.2
+colorama>=0.4.6
+rich>=13.7.1
+loguru>=0.7.2
+tenacity>=8.2.3
+
+# Testing
+pytest>=8.1.1
+pytest-cov>=5.0.0
