@@ -148,7 +148,7 @@ for f in src_files:
     else:
         print(f"  ❌ {f} — MISSING!")
 
-# 7. Show embeddings_manager.py model line
+# 7. Show embeddings_manager.py model linecd 
 print("\n🔍 EMBEDDING MODEL IN CODE:")
 try:
     with open("src/embeddings_manager.py", "r") as f:
